@@ -13,5 +13,5 @@ run:
   ./main
   
 clean:
-  /src/make clan   
+  /src/make clean   
   
